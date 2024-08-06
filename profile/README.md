@@ -4,7 +4,7 @@ Welcome to Incodax! We are a collaborative software development organization ded
 
 ## Members
 
-- **Pratyush** (@pratyush0898): Founder and Lead Developer
+- **Pratyush** (@notPratyush): Founder and Lead Developer
 - **Gaurav** (@nextgengk): Co-Founder and Developer
 
 ## About Us
@@ -23,7 +23,7 @@ We are always open to new ideas and contributions. If you have suggestions, find
 
 We are excited about the opportunities for collaboration and feedback. You can reach out to us through our LinkedIn profiles or GitHub pages:
 
-- **Pratyush**: [LinkedIn](https://www.linkedin.com/in/pratyush-kumar-751a1229b/) | [GitHub](https://github.com/pratyush0898)
+- **Pratyush**: [LinkedIn](https://www.linkedin.com/in/pratyush-kumar-751a1229b/) | [GitHub](https://github.com/notPratyush)
 - **Gaurav**: [LinkedIn](https://www.linkedin.com/in/gauravkumar077/) | [GitHub](https://github.com/nextgengk)
 
 Thank you for visiting Incodax. We look forward to collaborating with you!
